@@ -1,0 +1,11 @@
+echo '{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "ms-vscode.vscode-node-azure-pack",
+      "ms-python.python",
+      "ms-azuretools.vscode-docker",
+      "redhat.vscode-yaml",
+      "eamodio.gitlens"
+    ]
+  }' > .vscode/extensions.json
